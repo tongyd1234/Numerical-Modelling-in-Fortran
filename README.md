@@ -11,3 +11,4 @@ Fortran Topics： history, basics，interactive I/O, do loops, functions&subrout
 
 Numerical Topics: finite differences, 1-D & 2-D diffusion equations, streamfunction, upwind advection, 2-D advection-diffusion, iterative & multigrid solvers, Jacobi & Gauss-Seidel iterations, program 2D Poisson solver, convection (2-D, infinite-Prandtl), finite (low) Prandtl number convection, OOP exercises, restructure convection program using OOP and implicit time-stepping.
 
+This course gives an introduction to programming in this language, and is suitable for students who have only minimal programming experience, for example with MATLAB scripts. The focus will be on Fortran 95, but Fortran 77 will also be covered for those working with already-existing codes. A hands-on approach will be emphasized rather than abstract concepts, using example scientific problems relevant to Earth science.

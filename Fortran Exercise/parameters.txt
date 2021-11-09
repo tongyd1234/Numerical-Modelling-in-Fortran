@@ -1,0 +1,7 @@
+&inputs       L=1       total_time=1       kappa=1
+       xgrids=50
+       ygrids=50       a_dif=0.2
+       a_adv=0.1
+       B=100
+       
+/

@@ -1,0 +1,6 @@
+&inputs       L=1       total_time=0.1       k=1
+       nx=257
+       ny=65       a_dif=0.1
+       a_adv=0.2
+       Ray_Num=100000
+/

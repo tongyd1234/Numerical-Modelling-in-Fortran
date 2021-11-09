@@ -1,0 +1,6 @@
+&inputs   nx=129, ny=129,
+   alpha=0.8,
+   source=1,
+   iteration=2,
+       
+/
